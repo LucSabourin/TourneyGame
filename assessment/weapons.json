@@ -1,0 +1,115 @@
+[
+    {
+        "name": "wooden stick",
+        "min_stat": 0.0,
+        "max_stat": 5.0,
+        "weight": 0.5,
+        "value": 1,
+        "level": 0
+    }, {
+        "name": "wooden sword",
+        "min_stat": 2.0,
+        "max_stat": 7.0,
+        "weight": 1.5,
+        "value": 4,
+        "level": 1
+    }, {
+        "name": "training sword",
+        "min_stat": 3.0,
+        "max_stat": 9.0,
+        "weight": 3.0,
+        "value": 7,
+        "level": 2
+    }, {
+        "name": "rusty sword",
+        "min_stat": 5.0,
+        "max_stat": 11.0,
+        "weight": 5.5,
+        "value": 12,
+        "level": 3
+    }, {
+        "name": "iron mace",
+        "min_stat": 16.0,
+        "max_stat": 24.0,
+        "weight": 12.8,
+        "value": 30,
+        "level": 4
+    }, {
+        "name": "iron axe",
+        "min_stat": 12.0,
+        "max_stat": 18.0,
+        "weight": 10.6,
+        "value": 25,
+        "level": 4
+    }, {
+        "name": "iron sword",
+        "min_stat": 8.0,
+        "max_stat": 16.0,
+        "weight": 8.4,
+        "value": 20,
+        "level": 4
+    }, {
+        "name": "steel mace",
+        "min_stat": 24.0,
+        "max_stat": 40.0,
+        "weight": 18.4,
+        "value": 60,
+        "level": 5
+    }, {
+        "name": "steel axe",
+        "min_stat": 18.0,
+        "max_stat": 30.0,
+        "weight": 15.2,
+        "value": 50,
+        "level": 5
+    }, {
+        "name": "steel sword",
+        "min_stat": 12.0,
+        "max_stat": 20.0,
+        "weight": 12.0,
+        "value": 40,
+        "level": 5
+    }, {
+        "name": "meteorite mace",
+        "min_stat": 50.0,
+        "max_stat": 80.0,
+        "weight": 28.6,
+        "value": 120,
+        "level": 6
+    }, {
+        "name": "meteorite axe",
+        "min_stat": 37.5,
+        "max_stat": 60.0,
+        "weight": 24.4,
+        "value": 100,
+        "level": 6
+    }, {
+        "name": "meteorite sword",
+        "min_stat": 25.0,
+        "max_stat": 40.0,
+        "weight": 20.2,
+        "value": 80,
+        "level": 6
+    }, {
+        "name": "enchanted meteorite mace",
+        "min_stat": 100.0,
+        "max_stat": 240.0,
+        "weight": 35.0,
+        "value": 360,
+        "level": 7
+    }, {
+        "name": "enchanted meteorite axe",
+        "min_stat": 75.0,
+        "max_stat": 180.0,
+        "weight": 29.8,
+        "value": 300,
+        "level": 7
+    }, {
+        "name": "enchanted meteorite sword",
+        "min_stat": 50.0,
+        "max_stat": 120.0,
+        "weight": 24.6,
+        "value": 240,
+        "level": 7
+    }
+]

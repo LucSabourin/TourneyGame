@@ -1,0 +1,94 @@
+[
+    {
+        "name": "wooden bucket",
+        "min_stat": 0.5,
+        "max_stat": 3.5,
+        "weight": 0.5,
+        "value": 2,
+        "level": 0
+    }, {
+        "name": "hide armour",
+        "min_stat": 3.0,
+        "max_stat": 5.0,
+        "weight": 2.5,
+        "value": 5,
+        "level": 1
+    }, {
+        "name": "studded leather armour",
+        "min_stat": 4.5,
+        "max_stat": 6.5,
+        "weight": 4.0,
+        "value": 10,
+        "level": 2
+    }, {
+        "name": "rusty mail armour",
+        "min_stat": 7.5,
+        "max_stat": 12.5,
+        "weight": 7.5,
+        "value": 15,
+        "level": 3
+    }, {
+        "name": "rusty plate armour",
+        "min_stat": 14.0,
+        "max_stat": 21.0,
+        "weight": 25.0,
+        "value": 20,
+        "level": 3
+    }, {
+        "name": "iron mail armour",
+        "min_stat": 15.0,
+        "max_stat": 22.5,
+        "weight": 15.0,
+        "value": 30,
+        "level": 4
+    }, {
+        "name": "iron plate armour",
+        "min_stat": 25.0,
+        "max_stat": 37.5,
+        "weight": 32.5,
+        "value": 40,
+        "level": 4
+    }, {
+        "name": "steel mail armour",
+        "min_stat": 27.5,
+        "max_stat": 45.0,
+        "weight": 20.0,
+        "value": 60,
+        "level": 5
+    }, {
+        "name": "steel plate armour",
+        "min_stat": 50.0,
+        "max_stat": 67.5,
+        "weight": 37.5,
+        "value": 80,
+        "level": 5
+    }, {
+        "name": "meteorite mail armour",
+        "min_stat": 52.5,
+        "max_stat": 75.0,
+        "weight": 22.5,
+        "value": 120,
+        "level": 6
+    }, {
+        "name": "meteorite plate armour",
+        "min_stat": 80.0,
+        "max_stat": 97.5,
+        "weight": 45.0,
+        "value": 160,
+        "level": 6
+    }, {
+        "name": "enchanted meteorite mail armour",
+        "min_stat": 84.0,
+        "max_stat": 127.5,
+        "weight": 30.0,
+        "value": 240,
+        "level": 7
+    }, {
+        "name": "enchanted meteorite plate armour",
+        "min_stat": 135.0,
+        "max_stat": 197.5,
+        "weight": 50.0,
+        "value": 320,
+        "level": 7
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "name": "pot lid",
+        "min_stat": 1.0,
+        "max_stat": 4.0,
+        "weight": 0.5,
+        "value": 1,
+        "level": 0
+    }, {
+        "name": "small wooden buckler",
+        "min_stat": 3.5,
+        "max_stat": 5.0,
+        "weight": 2.5,
+        "value": 3,
+        "level": 1
+    }, {
+        "name": "wooden tower shield",
+        "min_stat": 7.5,
+        "max_stat": 10.0,
+        "weight": 4.0,
+        "value": 7,
+        "level": 1
+    }, {
+        "name": "small rusty buckler",
+        "min_stat": 4.5,
+        "max_stat": 6.5,
+        "weight": 3.75,
+        "value": 6,
+        "level": 2
+    }, {
+        "name": "rusty tower shield",
+        "min_stat": 7.0,
+        "max_stat": 13.5,
+        "weight": 8.5,
+        "value": 14,
+        "level": 2
+    }, {
+        "name": "iron buckler",
+        "min_stat": 7.5,
+        "max_stat": 12.5,
+        "weight": 6.0,
+        "value":12,
+        "level": 3
+    }, {
+        "name": "iron tower shield",
+        "min_stat": 14.0,
+        "max_stat": 21.0,
+        "weight": 11.5,
+        "value": 28,
+        "level": 3
+    }, {
+        "name": "steel buckler",
+        "min_stat": 15.0,
+        "max_stat": 22.5,
+        "weight": 9.5,
+        "value": 24,
+        "level": 4
+    }, {
+        "name": "steel tower shield",
+        "min_stat": 25.0,
+        "max_stat": 37.5,
+        "weight": 18.5,
+        "value": 56,
+        "level": 4
+    }, {
+        "name": "large meteorite buckler",
+        "min_stat": 27.5,
+        "max_stat": 45.0,
+        "weight": 16.0,
+        "value": 48,
+        "level": 5
+    }, {
+        "name": "meteorite tower shield",
+        "min_stat": 50.0,
+        "max_stat": 67.5,
+        "weight": 28.5,
+        "value": 112,
+        "level": 5
+    }, {
+        "name": "large diamond buckler",
+        "min_stat": 52.5,
+        "max_stat": 75.0,
+        "weight": 22.5,
+        "value": 96,
+        "level": 6
+    }, {
+        "name": "diamond tower shield",
+        "min_stat": 80.0,
+        "max_stat": 97.5,
+        "weight": 35.5,
+        "value": 224,
+        "level": 6
+    }, {
+        "name": "enchanted large diamond buckler",
+        "min_stat": 84.0,
+        "max_stat": 127.5,
+        "weight": 28,
+        "value": 192,
+        "level": 7
+    }, {
+        "name": "enchanted diamond tower shield",
+        "min_stat": 135.0,
+        "max_stat": 197.5,
+        "weight": 40,
+        "value": 448,
+        "level": 7
+    }
+]
